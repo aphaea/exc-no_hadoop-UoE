@@ -3,6 +3,9 @@
 
 # Reservoir sampling of  multiple lines uniformly without replacement
 # running on a single machine
+
+#Use: python random_fun.py < webLarge.txt > outfile.txt
+
 import sys
 import random
 
